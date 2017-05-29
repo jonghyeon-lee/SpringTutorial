@@ -5,18 +5,18 @@ JUST GUIDE FOLLOW UP STEP BY STEP
 
 Contents
 -----
-* *CHAPTER 1* : 개발 환경 준비 하기
+***CHAPTER 1 : 개발 환경 준비 하기***
 * (/) 학습 내용 안내
 * (/) 개발 환경 설치 : JDK, Eclipse
-
-* *CHAPTER 2* : 기반 도구 학습
+__
+***CHAPTER 2 : 기반 도구 학습***
 * (/) 빌드 도구 : Maven
 * (/) 테스팅 프레임워크 : JUnit
 * (/) 실습T01: 신규 프로젝트 생성, JUnit 라이프싸이클 확인
 * (x) 로깅 : Slf4j + Logback
 * (x) Spring Framework 개요
-
-* *CHAPTER 3* : 데이터베이스 입출력 개발
+__
+***CHAPTER 3 : 데이터베이스 입출력 개발***
 * (x) Spring JDBC의 핵심 사용법
 * (x) 실습D01: H2 DB 접속
 * (x) 실습D02: Count 쿼리
@@ -32,8 +32,8 @@ Contents
 * (x) 실습D12: 통합 테스트에서 트랜잭션 롤백
 * (x) 실습D13: DELETE 쿼리 실행
 * (x) 실습D14: UPDATE 쿼리 실행CHAPTER 4 : REST API 개발
-
-* *REST API와 Spring MVC*
+__
+***REST API와 Spring MVC***
 * (x) 실습S01: Spring Boot 프로젝트 만들기
 * (x) 실습S02: 정적 파일 디렉토리 설정
 * (x) 실습W01: Controller 추가
